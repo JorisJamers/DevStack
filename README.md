@@ -41,6 +41,13 @@ These are the minimum required configs to get started with DevStack
 
 [image5]: https://user-images.githubusercontent.com/26601353/34482944-a679c076-efbb-11e7-9001-c8c82ac930cf.png "Install commando devstack"
 
+If all the steps are completed you should be able to surf to the ip address of the VM (or system). And you will see this login screen. 
+
+![alt text][image6]
+
+[image6]: https://user-images.githubusercontent.com/26601353/34484390-ac332b84-efc4-11e7-8dbf-0ef85f5fcd81.png "Login page devstack"
+
+
 
 
 
